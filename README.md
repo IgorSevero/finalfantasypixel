@@ -35,3 +35,5 @@ Se você quiser ajudar a melhorar esse projeto, é só fazer um fork do reposit�
 **Vamos juntos criar a maior enciclopédia de Final Fantasy da internet!** 
 
 **#FinalFantasy #PixelArt #JavaScript #HTML #CSS #RPG**
+
+**Link Vercel: https://finalfantasypixel.vercel.app/**
